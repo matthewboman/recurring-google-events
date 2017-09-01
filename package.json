@@ -1,0 +1,24 @@
+{
+  "name": "recurring-google-events",
+  "version": "0.1.0",
+  "description": "A function for getting events from Google calendars and formatting them for react-big-calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crashspringfield/recurring-google-events.git"
+  },
+  "author": "crash <ccrsh@riseup.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crashspringfield/recurring-google-events/issues"
+  },
+  "homepage": "https://github.com/crashspringfield/recurring-google-events#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "bluebird": "^3.5.0",
+    "moment": "^2.18.1"
+  }
+}
